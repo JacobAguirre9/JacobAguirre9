@@ -17,8 +17,9 @@ Previously, I also pursued
 
 -------
 <h3 align="center">About Me 👋🏼</h3>
+
 - 🚴🏼‍♂️ I enjoy long distance running and cycling
 - 🏈 I support all things Atlanta, especially all our sports teams! Even if they're disappointing sometimes.. 
 - 🗄️ Former Optimization Intern at Oak Ridge National Laboratory
-- 📬 Reach out to me via email at lastname [at] gatech [dot] edu
+- 📬 Reach out to me via email at lastname at gatech dot edu
 - I am always looking for eager colleagues to collaborate with on topics in nonlinear and stochastic programming.
