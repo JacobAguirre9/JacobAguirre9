@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">Hi! 👋🏼 I'm Jacob Aguirre.</h2>
+<p align="center">
+  <a href="https://www.jacobaguirre.com/Jacob_Aguirre_CV.pdf">CV</a> •
+  <a href="https://www.jacobaguirre.com/">Website</a> •
+  <a href="https://twitter.com/JacobMAguirre">Twitter</a> •
+  <a href="https://www.linkedin.com/in/jacob-aguirre9/">LinkedIn</a>
+</p>
 
-<!--
-**JacobAguirre9/JacobAguirre9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
+- 🧮 Operations Research for Convex optimization theory
+Previously, I also pursued 
+- B.S. in Economics & Mathematics
+- M.S. in Economics & Mathematics with specializations in Health Economics 🏥 & Topology♾
+- 📊 M.S. in Statistics with specialization on nonparametrics statistics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-------
+<h3 align="center">About Me 👋🏼</h3>
+- 🚴🏼‍♂️ I enjoy long distance running and cycling
+- 🏈 I support all things Atlanta, including all our sports teams! (even if they're disappointing sometimes)
+- 🗄️ Former Optimization Intern at [Oak Ridge National Laboratory](https://www.ornl.gov/)
+- 📬 Reach out to me via email at lastname [at] gatech [dot] edu
+- I am always looking for eager colleagues to collaborate with on topics in nonlinear and stochastic programming.
