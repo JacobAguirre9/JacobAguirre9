@@ -9,7 +9,8 @@
 
 I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
 - 🧮 Operations Research for Convex optimization theory
-- My advisors are [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/), [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/), and collaboration with [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm/)
+- My advisors are [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/), [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/), and main collaboration with [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm/).
+
 Previously, I also pursued 
 - B.S. in Economics & Mathematics
 - M.S. in Economics & Mathematics with specializations in Health Economics 🏥 & Topology ♾
