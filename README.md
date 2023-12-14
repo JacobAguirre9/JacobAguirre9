@@ -16,7 +16,7 @@ Previously, I also pursued
 
 
 -------
-<h3 align="center">About Me 👋🏼</h3>
+<h3 align="center">About Me 👨🏻‍💻</h3>
 
 - 🚴🏼‍♂️ I enjoy long distance running and cycling
 - 🏈 I support all things Atlanta, especially all our sports teams! Even if they're disappointing sometimes.. 
