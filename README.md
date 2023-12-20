@@ -14,7 +14,7 @@ I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
 Previously, I also pursued 
 - B.S. in Economics & Mathematics
 - M.S. in Economics & Mathematics with specializations in Health Economics 🏥 & Topology ♾
-- 📊 M.S. in Statistics with specialization on nonparametrics statistics 
+- M.S. in Statistics with specialization on nonparametrics statistics 📊 
 
 
 -------
