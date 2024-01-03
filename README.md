@@ -21,7 +21,7 @@ Previously, I also pursued
 <h3 align="center">About Me 👨🏻‍💻</h3>
 
 - 🚴🏼‍♂️ I enjoy long distance running, cycling, and anything outdoors 🌳
-- 🌎 I love learning languages and traveling! I am native in English & German, fluent in French and Spanish, and working in Korean and Russian. 
+- 🌎 I love learning languages and traveling! I am native in English & German, fluent in French & Spanish, and working in Korean & Russian. 
 - 👨🏻‍🎓 I love to read textbooks related to maths, especially optimization and statistics. For more, check the reading tab on my website!
 - 🏈 I support all things Atlanta, especially all our sports teams! Even if they're disappointing sometimes...🦅 
 - 🗄️ Former Optimization Intern at Oak Ridge National Laboratory 
