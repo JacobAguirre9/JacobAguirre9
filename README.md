@@ -9,7 +9,7 @@
 
 I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
 - 🧮 Operations Research for Convex optimization theory
-- My advisors are [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/), [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/), and fortunate to collaborate with [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Alexander Shapiro](https://sites.gatech.edu/alexander-shapiro/).
+- I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Alexander Shapiro](https://sites.gatech.edu/alexander-shapiro/).
 
 Previously, I also pursued 
 - B.S. in Economics & Mathematics
