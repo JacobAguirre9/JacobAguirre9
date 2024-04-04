@@ -8,22 +8,14 @@
 
 
 I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
-- 🧮 Operations Research for Convex optimization theory
-- I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm).
-
-Previously, I also pursued 
-- B.S. in Economics & Mathematics
-- M.S. in Economics & Mathematics with specializations in Health Economics 🏥 & Topology ♾
-- M.S. in Statistics with specialization on nonparametrics statistics 📊 
-
+- 🧮 Operations Research
+- I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://sites.gatech.edu/renato-monteiro/)
 
 -------
 <h3 align="center">About Me 👨🏻‍💻</h3>
 
 - 🚴🏼‍♂️ I enjoy long distance running, cycling, and anything outdoors 🌳
 - 🌎 I love learning languages and traveling! I am native in English & German, fluent in French & Spanish, and working in Korean & Russian. 
-- 👨🏻‍🎓 I love to read textbooks related to maths, especially optimization and statistics. For more, check the reading tab on my website!
-- 🏈 I support all things Atlanta, especially all our sports teams! Even if they're disappointing sometimes...🦅 
-- 🗄️ Former Optimization Intern at Oak Ridge National Laboratory 
+- 🏈 I support all things Atlanta, even our disappointing sports teams...
+- 🗄️ Optimization Intern at Oak Ridge and Sandia National Laboratories
 - 📬 Reach out to me via email at lastname at gatech dot edu
-- I am always looking for eager colleagues to collaborate with on topics in nonlinear and stochastic programming.
