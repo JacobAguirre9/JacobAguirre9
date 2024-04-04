@@ -15,7 +15,7 @@ I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
 <h3 align="center">About Me 👨🏻‍💻</h3>
 
 - 🚴🏼‍♂️ I enjoy long distance running, cycling, and anything outdoors 🌳
-- 🌎 I love learning languages and traveling! I am native in English & German, fluent in French & Spanish, and working in Korean & Russian. 
+- 🌎 I love learning languages and traveling! I am native in English, German, and Spanish, fluent in french, and working in Korean & Russian. 
 - 🏈 I support all things Atlanta, even our disappointing sports teams...
 - 🗄️ Optimization Intern at Oak Ridge and Sandia National Laboratories
 - 📬 Reach out to me via email at lastname at gatech dot edu
