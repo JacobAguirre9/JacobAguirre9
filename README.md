@@ -9,6 +9,7 @@
 
 I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
 - 🧮 Operations Research for Convex optimization theory
+- 📈 M.S. in Quantitative and Computational Finance
 - I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm).
 
 Previously, I also pursued 
