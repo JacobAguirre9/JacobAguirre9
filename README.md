@@ -22,7 +22,6 @@ Previously, I also pursued
 - 🌎 I love learning languages and traveling! I am native in English, German, & Spanish.
 - 👨🏻‍🎓 I love to read textbooks related to maths, especially optimization and statistics. For more, check the reading tab on my website!
 - 🏈 I support all things Atlanta, especially our sports teams! Even if they're disappointing sometimes...🦅 
-- 🗄️ Former Optimization Intern at Oak Ridge National Laboratory 
+- 🗄️ Former Intern at Oak Ridge National Laboratory 
 - 📬 Reach out to me via email at lastname at gatech dot edu
-- I am always looking for eager colleagues to collaborate with on topics in nonlinear and stochastic programming.
 
