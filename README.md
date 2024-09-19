@@ -7,10 +7,7 @@
 </p>
 
 
-I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
-- 🧮 Operations Research for Convex optimization theory
-- I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://www.isye.gatech.edu/users/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Weijun Xie](https://www.isye.gatech.edu/users/weijun-xie/).
-
+I'm currently a 2nd year PhD Student at the Georgia Institute of Technology 🐝 studying Operations Research.
 Previously, I also pursued 
 - B.S. in Economics & Mathematics
 - M.S. in Economics & Mathematics
