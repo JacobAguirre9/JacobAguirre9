@@ -8,11 +8,10 @@
 
 
 I'm currently a PhD Student at the Georgia Institute of Technology 🐝 studying
-- 🧮 Operations Research for Convex optimization theory
-- I'm grateful to be advised by [Anton Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://www.isye.gatech.edu/users/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Weijun Xie](https://www.isye.gatech.edu/users/weijun-xie/).
+- 🧮 Operations Research for Convex optimization theory and algorithms. I am interested in the theory, complexity analysis, and implementation of efficiently computable algorithms and numerical codes for solving large-scale optimization problems.
+- I'm grateful to be advised by [Anton J. Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://www.isye.gatech.edu/users/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Weijun Xie](https://www.isye.gatech.edu/users/weijun-xie/).
 
-I'm currently a 2nd year PhD Student at the Georgia Institute of Technology 🐝 studying Operations Research.
-Previously, I also pursued 
+Previously, I also pursued
 - B.S. in Economics & Mathematics
 - M.S. in Economics & Mathematics
 
@@ -21,7 +20,7 @@ Previously, I also pursued
 
 - 🚴🏼‍♂️ I enjoy long distance running, cycling, and anything outdoors 🌳
 - 🌎 I love learning languages and traveling! I am native in English, German, & Spanish.
-- 👨🏻‍🎓 I love to read textbooks related to maths, especially optimization and statistics. For more, check the reading tab on my website!
-- 🏈 I support all things Atlanta, especially our sports teams! Even if they're disappointing sometimes...🦅 
-- 🗄️ Former Intern at Oak Ridge National Laboratory 
+- 👨🏻‍🎓 I enjoy coding in my freetime, whether it be related to testing an optimization algorithm or building tools for myself and friends to play with. 
+- 🏈 I'm an avid Atlanta sports fan, even when they test my patience 🦅.
+- 🗄️ Former research fellow at Oak Ridge National Laboratory in Data Analysis and Machine Learning Group.
 - 📬 Reach out to me via email at lastname at gatech dot edu
