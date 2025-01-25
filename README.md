@@ -3,7 +3,7 @@
 <a href="https://www.jacobaguirre.com/Jacob_Aguirre_CV.pdf">CV</a> •
 <a href="https://www.jacobaguirre.com/">Website</a> •
 <a href="https://twitter.com/JacobMAguirre">Twitter</a> •
-<a href="https://www.linkedin.com/in/jacob-aguirre9/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jacob-aguirre9/">Linkedin</a>
 </p>
 
 
@@ -20,7 +20,6 @@ Previously, I also pursued
 
 - 🚴🏼‍♂️ I enjoy long distance running, cycling, and anything outdoors 🌳
 - 🌎 I love learning languages and traveling! I am native in English, German, & Spanish.
-- 👨🏻‍🎓 I enjoy coding in my freetime, whether it be related to testing an optimization algorithm or building tools for myself and friends to play with. 
 - 🏈 I'm an avid Atlanta sports fan, even when they test my patience 🦅.
 - 🗄️ Former research fellow at Oak Ridge National Laboratory in Data Analysis and Machine Learning Group.
 - 📬 Reach out to me via email at lastname at gatech dot edu
