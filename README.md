@@ -13,7 +13,7 @@ I'm currently a 2nd Year PhD Candidate at the Georgia Institute of Technology �
 
 Previously, I also pursued
 - B.S. in Economics & Mathematics
-- M.S. in Economics & Mathematics
+- M.S. in Economics & Mathematics & Operations Research
 
 -------
 <h3 align="center">About Me 👨🏻‍💻</h3>
