@@ -9,7 +9,7 @@
 
 I'm currently a 2nd Year PhD Candidate at the Georgia Institute of Technology 🐝 studying
 - 🧮 Operations Research for Convex optimization theory and algorithms. I am interested in the theory, complexity analysis, and implementation of efficiently computable algorithms and numerical codes for solving large-scale optimization problems.
-- I'm grateful to be advised by [Anton J. Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/) and [Renato D.C. Monteiro](https://www.isye.gatech.edu/users/renato-monteiro/), alongside being fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm) and [Dmitrii Ostrovskii](https://ostrodmit.github.io/).
+- I'm grateful to be advised by [Anton J. Kleywegt](https://www.isye.gatech.edu/users/anton-kleywegt/), [Renato D.C. Monteiro](https://www.isye.gatech.edu/users/renato-monteiro/), and [Dmitrii Ostrovskii](https://ostrodmit.github.io/). I am quite fortunate to collaborate and learn from [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/CVBrief.htm).
 
 Previously, I also pursued
 - B.S. in Economics & Mathematics
